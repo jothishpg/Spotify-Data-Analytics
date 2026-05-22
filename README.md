@@ -38,12 +38,5 @@ To build a data-driven system that efficiently stores, processes, and analyzes S
 
 ---
 
-## 🔥 Future Improvements
-- Add dashboard visualization (Power BI / Tableau)  
-- Integrate real-time data APIs  
-- Optimize large-scale queries  
-
----
-
 ## 📌 Conclusion
 This project demonstrates strong skills in SQL, database management, and data analysis, making it suitable for real-world data-driven applications.
