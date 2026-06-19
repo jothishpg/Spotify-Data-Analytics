@@ -52,6 +52,3 @@ plt.bar(features, values, color='skyblue', edgecolor='black')
 plt.title(f"Track Metadata for '{track_data['Track Name']}'")
 plt.ylabel('Value')
 plt.show()
-
-
-print("Done")
